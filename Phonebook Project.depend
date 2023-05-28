@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1577010030 source:c:\users\johns\desktop\phonebook project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Read.h"
+	"Menu.h"
+	"Modify.h"
+	"Sort_List.h"
+	"Validate.h"
+	"Search.h"
+	"Add_Delete.h"
+	"Save_Quit.h"
+
+1577009507 c:\users\johns\desktop\phonebook project\read.h
+
+1577009507 c:\users\johns\desktop\phonebook project\menu.h
+	"Read.h"
+
+1577009507 c:\users\johns\desktop\phonebook project\modify.h
+	"Read.h"
+
+1577009681 c:\users\johns\desktop\phonebook project\sort_list.h
+	"Read.h"
+
+1577009758 c:\users\johns\desktop\phonebook project\validate.h
+	"Read.h"
+
+1577010099 c:\users\johns\desktop\phonebook project\search.h
+	"Read.h"
+
+1577010040 c:\users\johns\desktop\phonebook project\add_delete.h
+	"Read.h"
+
+1577010040 c:\users\johns\desktop\phonebook project\save_quit.h
+	"Read.h"
+
+1577010030 source:c:\users\johns\desktop\phonebook projectfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Read.h"
+	"Menu.h"
+	"Modify.h"
+	"Sort_List.h"
+	"Validate.h"
+	"Search.h"
+	"Add_Delete.h"
+	"Save_Quit.h"
+
+1577153960 c:\users\johns\desktop\phonebook projectfinal\read.h
+
+1577009507 c:\users\johns\desktop\phonebook projectfinal\menu.h
+	"Read.h"
+
+1577172234 c:\users\johns\desktop\phonebook projectfinal\modify.h
+	"Read.h"
+
+1577151476 c:\users\johns\desktop\phonebook projectfinal\sort_list.h
+	"Read.h"
+
+1577009758 c:\users\johns\desktop\phonebook projectfinal\validate.h
+	"Read.h"
+
+1577152112 c:\users\johns\desktop\phonebook projectfinal\search.h
+	"Read.h"
+
+1577153885 c:\users\johns\desktop\phonebook projectfinal\add_delete.h
+	"Read.h"
+
+1577152389 c:\users\johns\desktop\phonebook projectfinal\save_quit.h
+	"Read.h"
+
+1577013630 source:d:\files\important data\old phonebook project backups\phonebook projectfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Read.h"
+	"Menu.h"
+	"Modify.h"
+	"Sort_List.h"
+	"Validate.h"
+	"Search.h"
+	"Add_Delete.h"
+	"Save_Quit.h"
+
+1577157560 d:\files\important data\old phonebook project backups\phonebook projectfinal\read.h
+
+1577013107 d:\files\important data\old phonebook project backups\phonebook projectfinal\menu.h
+	"Read.h"
+
+1577175834 d:\files\important data\old phonebook project backups\phonebook projectfinal\modify.h
+	"Read.h"
+
+1577155076 d:\files\important data\old phonebook project backups\phonebook projectfinal\sort_list.h
+	"Read.h"
+
+1577013358 d:\files\important data\old phonebook project backups\phonebook projectfinal\validate.h
+	"Read.h"
+
+1577155712 d:\files\important data\old phonebook project backups\phonebook projectfinal\search.h
+	"Read.h"
+
+1577157485 d:\files\important data\old phonebook project backups\phonebook projectfinal\add_delete.h
+	"Read.h"
+
+1577155989 d:\files\important data\old phonebook project backups\phonebook projectfinal\save_quit.h
+	"Read.h"
+
